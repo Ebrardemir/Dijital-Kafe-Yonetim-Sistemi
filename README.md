@@ -8,5 +8,3 @@ Dijital Kafe Yönetim Sistemi, kafelerin sipariş, ödeme ve ürün yönetim sü
 📌 Proje Durumu : 
 Proje geliştirme aşamasında olup, Agile metodolojisi kullanılarak sprintler halinde ilerletilecektir.
 
-📌 Katkıda Bulunma :
-Geliştirme süreci ilerledikçe, proje ile ilgili katkıda bulunmak isteyenler için dokümantasyon güncellenecektir.
